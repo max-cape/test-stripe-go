@@ -11,8 +11,8 @@ package setupattempt
 import (
 	"net/http"
 
-	stripe "github.com/max-cape/stripe-go-test"
-	"github.com/max-cape/stripe-go-test/form"
+	stripe "github.com/max-cape/test-stripe-go"
+	"github.com/max-cape/test-stripe-go/form"
 )
 
 // Client is used to invoke /v1/setup_attempts APIs.

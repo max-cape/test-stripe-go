@@ -3,7 +3,7 @@ package mandate
 import (
 	"testing"
 
-	_ "github.com/max-cape/stripe-go-test/testing"
+	_ "github.com/max-cape/test-stripe-go/testing"
 	assert "github.com/stretchr/testify/require"
 )
 

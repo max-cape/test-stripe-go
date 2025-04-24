@@ -1,4 +1,4 @@
-module github.com/max-cape/stripe-go-test
+module github.com/max-cape/test-stripe-go
 
 go 1.22.7
 

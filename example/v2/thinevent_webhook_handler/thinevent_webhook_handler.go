@@ -18,10 +18,10 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/max-cape/stripe-go-test"
-	billingMeters "github.com/max-cape/stripe-go-test/billing/meter"
-	"github.com/max-cape/stripe-go-test/rawrequest"
-	webhook "github.com/max-cape/stripe-go-test/webhook"
+	"github.com/max-cape/test-stripe-go"
+	billingMeters "github.com/max-cape/test-stripe-go/billing/meter"
+	"github.com/max-cape/test-stripe-go/rawrequest"
+	webhook "github.com/max-cape/test-stripe-go/webhook"
 )
 
 var apiKey = "{{API_KEY}}"

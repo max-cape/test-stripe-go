@@ -11,8 +11,8 @@ package scheduledqueryrun
 import (
 	"net/http"
 
-	stripe "github.com/max-cape/stripe-go-test"
-	"github.com/max-cape/stripe-go-test/form"
+	stripe "github.com/max-cape/test-stripe-go"
+	"github.com/max-cape/test-stripe-go/form"
 )
 
 // Client is used to invoke /v1/sigma/scheduled_query_runs APIs.

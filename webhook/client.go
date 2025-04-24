@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/max-cape/stripe-go-test"
+	"github.com/max-cape/test-stripe-go"
 )
 
 //

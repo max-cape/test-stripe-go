@@ -8,8 +8,8 @@ import (
 
 	"fmt"
 
-	stripe "github.com/max-cape/stripe-go-test"
-	"github.com/max-cape/stripe-go-test/mock"
+	stripe "github.com/max-cape/test-stripe-go"
+	"github.com/max-cape/test-stripe-go/mock"
 	assert "github.com/stretchr/testify/require"
 )
 

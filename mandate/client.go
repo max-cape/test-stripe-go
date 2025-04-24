@@ -10,7 +10,7 @@ package mandate
 import (
 	"net/http"
 
-	stripe "github.com/max-cape/stripe-go-test"
+	stripe "github.com/max-cape/test-stripe-go"
 )
 
 // Client is used to invoke /v1/mandates APIs.

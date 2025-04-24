@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/max-cape/stripe-go-test"
-	"github.com/max-cape/stripe-go-test/webhook"
+	"github.com/max-cape/test-stripe-go"
+	"github.com/max-cape/test-stripe-go/webhook"
 )
 
 // ParseThinEvent parses a Stripe event from the payload and verifies its signature.

@@ -2,7 +2,7 @@
 package rawrequest
 
 import (
-	stripe "github.com/max-cape/stripe-go-test"
+	stripe "github.com/max-cape/test-stripe-go"
 )
 
 // Client is used to invoke raw requests against the specified backend

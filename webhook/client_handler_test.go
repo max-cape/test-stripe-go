@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/max-cape/stripe-go-test/webhook"
+	"github.com/max-cape/test-stripe-go/webhook"
 )
 
 func Example() {

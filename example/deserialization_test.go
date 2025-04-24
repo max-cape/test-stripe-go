@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	stripe "github.com/max-cape/stripe-go-test"
+	stripe "github.com/max-cape/test-stripe-go"
 	assert "github.com/stretchr/testify/require"
 )
 

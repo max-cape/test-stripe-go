@@ -12,8 +12,8 @@ import (
 	"strings"
 	"testing"
 
-	stripe "github.com/max-cape/stripe-go-test"
-	"github.com/max-cape/stripe-go-test/form"
+	stripe "github.com/max-cape/test-stripe-go"
+	"github.com/max-cape/test-stripe-go/form"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/net/http2"
 )

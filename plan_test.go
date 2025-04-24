@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/max-cape/stripe-go-test/form"
+	"github.com/max-cape/test-stripe-go/form"
 	assert "github.com/stretchr/testify/require"
 )
 
