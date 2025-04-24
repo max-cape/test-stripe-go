@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/max-cape/stripe-go-test/form"
+	"github.com/max-cape/test-stripe-go/form"
 )
 
 //

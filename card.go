@@ -8,7 +8,7 @@ package stripe
 
 import (
 	"encoding/json"
-	"github.com/max-cape/stripe-go-test/form"
+	"github.com/max-cape/test-stripe-go/form"
 	"strconv"
 )
 

@@ -4,8 +4,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	stripe "github.com/max-cape/stripe-go-test"
-	_ "github.com/max-cape/stripe-go-test/testing"
+	stripe "github.com/max-cape/test-stripe-go"
+	_ "github.com/max-cape/test-stripe-go/testing"
 	assert "github.com/stretchr/testify/require"
 )
 

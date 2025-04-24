@@ -10,7 +10,7 @@ package event
 import (
 	"net/http"
 
-	stripe "github.com/max-cape/stripe-go-test"
+	stripe "github.com/max-cape/test-stripe-go"
 )
 
 // Client is used to invoke event related APIs.

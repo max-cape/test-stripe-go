@@ -9,10 +9,10 @@ import (
 
 	"fmt"
 
-	stripe "github.com/max-cape/stripe-go-test"
-	"github.com/max-cape/stripe-go-test/client"
-	"github.com/max-cape/stripe-go-test/mock"
-	. "github.com/max-cape/stripe-go-test/testing"
+	stripe "github.com/max-cape/test-stripe-go"
+	"github.com/max-cape/test-stripe-go/client"
+	"github.com/max-cape/test-stripe-go/mock"
+	. "github.com/max-cape/test-stripe-go/testing"
 	assert "github.com/stretchr/testify/require"
 )
 

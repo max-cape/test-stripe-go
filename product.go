@@ -8,7 +8,7 @@ package stripe
 
 import (
 	"encoding/json"
-	"github.com/max-cape/stripe-go-test/form"
+	"github.com/max-cape/test-stripe-go/form"
 )
 
 // The type of the product. The product is either of type `good`, which is eligible for use with Orders and SKUs, or `service`, which is eligible for use with Subscriptions and Plans.

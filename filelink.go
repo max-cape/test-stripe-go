@@ -6,7 +6,7 @@
 
 package stripe
 
-import "github.com/max-cape/stripe-go-test/form"
+import "github.com/max-cape/test-stripe-go/form"
 
 // Returns a list of file links.
 type FileLinkListParams struct {
